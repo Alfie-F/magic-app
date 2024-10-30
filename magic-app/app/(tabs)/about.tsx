@@ -6,7 +6,7 @@ export default function Index() {
       style={styles.container
       }
     >
-      <Text style={styles.text}>Magic The Appening</Text>
+      <Text style={styles.text}>This will eventually be an app that generates magic cards using the scryfall api! For now I am refamiliarising myself with expo</Text>
     </View>
   );
 }
